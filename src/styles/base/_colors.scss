@@ -1,0 +1,14 @@
+:root {
+  --c-bright-orange: 31, 77%, 52%;
+  --c-dark-cyan: 184, 100%, 22%;
+  --c-very-dark-cyan: 179, 100%, 13%;
+  --c-very-light-gray: 0, 0%, 95%;
+  --c-transparent-white: 0, 0%, 100%, 0.75;
+
+  --c-primary-1: hsla(var(--c-bright-orange));
+  --c-primary-2: hsla(var(--c-dark-cyan));
+  --c-primary-3: hsla(var(--c-very-dark-cyan));
+
+  --c-paragraphs: hsla(var(--c-transparent-white));
+  --c-secondary: hsla(var(--c-very-light-gray));
+}
