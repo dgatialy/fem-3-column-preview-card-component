@@ -17,7 +17,7 @@ main {
   border-radius: 5px;
   overflow: hidden;
   flex-wrap: wrap;
-  padding: var(--space-l);
+  margin: var(--space-l);
 }
 
 .bg--primary-1 {
@@ -48,14 +48,6 @@ main {
   display: flex;
   padding: var(--space-xl);
   flex: 1 1 240px;
-
-  &--first {
-    border-radius: 5px 0px 0px 5px;
-  }
-
-  &--last {
-    border-radius: 0px 5px 5px 0px;
-  }
 
   .card__content {
     display: flex;
