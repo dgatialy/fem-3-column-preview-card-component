@@ -105,5 +105,11 @@ button {
 
   background: var(--c-secondary);
   border-radius: 24px;
-  border: none;
+  border: 2px solid transparent;
+
+  &:hover {
+    background: none;
+    color: var(--c-secondary);
+    border: 2px solid var(--c-secondary);
+  }
 }
