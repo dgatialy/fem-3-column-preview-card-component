@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/dgatialy/fem-3-column-preview-card-component)
+- [Solution URL](https://www.frontendmentor.io/solutions/preview-card-component-using-flexbox-1uxB3tpJB)
 - [Live Site](https://peaceful-hamilton-22e69e.netlify.app/)
 
 ## My process
